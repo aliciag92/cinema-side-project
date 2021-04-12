@@ -86,10 +86,10 @@ To take a peek at my planning process, you can view my Trello board by clicking 
 - - My OLS model specified parameters (normalize=True) and used all features in the data set. It had:
     - an RMSE of \$33,670,874.47 on training data
     - an RMSE of \$31,264,245.48 on validate data
-    - $r^{2}$ of 0.77 on validate data
+    - r^2 of 0.77 on validate data
     - RMSE of \$29,124,148.98 on test data
-    - $r^{2}$ of 0.76 on test data. 
-- The $r^{2}$ value means that 76% of the variance in revenue could be explained by the features in the data set.
+    - r^2 of 0.76 on test data. 
+- The r^2 value means that 76% of the variance in revenue could be explained by the features in the data set.
 - The model outperformed baseline and did better than the other models so it should be used moving forward as it predicts revenue.
 
 ****
