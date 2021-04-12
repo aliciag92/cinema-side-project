@@ -14,7 +14,6 @@ The motion picture industry is raking in more revenue than ever with its expansi
 
 The dataset I am working with consists of movies released on or before July 2017. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages.
 
-This notebook consists of the discoveries made and work that was done related to uncovering what the drivers of movie revenue are.
 
 ### Objectives for this project include:
 - Identifying the drivers of a movie's success based on its revenue.
