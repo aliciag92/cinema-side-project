@@ -1,4 +1,4 @@
-# Predicting Movie Success
+# Cinema Success
 ![Movies](https://image.shutterstock.com/image-vector/film-festival-260nw-8170690.jpg)
 ****
 
